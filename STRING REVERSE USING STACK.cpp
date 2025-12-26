@@ -1,4 +1,3 @@
-//WAP in C to find reverse of string using stacks
 #include<stdio.h>
 #include<string.h>
 #include<conio.h>

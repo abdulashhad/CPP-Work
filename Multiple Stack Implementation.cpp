@@ -69,6 +69,8 @@ void main()
    popA();
    pushB(200);
 
+   popB();
+   popB();
    display();
 getch();
 }
