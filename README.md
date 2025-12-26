@@ -1,2 +1,2 @@
 # C-Work
-Collection of C++ programs and projects covering algorithms, data structures, and general programming exercises. The folder demonstrates problem-solving skills, algorithm implementation, and core C++ concepts through hands-on code examples.
+This folder contains a collection of C++ programs and exercises. It includes basic programming examples and algorithm implementations to help practice and improve C++ coding skills.
